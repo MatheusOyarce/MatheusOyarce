@@ -16,5 +16,3 @@ Olá, seja bem-vindo ao meu repositório! Meu nome é Matheus e sou um analista 
 [![](https://visitcount.itsvg.in/api?id=MatheusOyarce&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Snake animation](https://github.com/MatheusOyarce/MatheusOyarce/blob/output/github-contribution-grid-snake.svg)
